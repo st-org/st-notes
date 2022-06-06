@@ -1,0 +1,102 @@
+{title [Dependence Tree]}
+{mod cd@0.10.3, global []}
+{style overflow:auto, div [{cd [
+    ston
+    0.7.0
+    &
+    stdn
+    0.7.0
+    {from ston, ar []}
+    \\
+    &
+    stc
+    0.28.0
+    {from ston, ar []}
+    {from stdn, ar []}
+    &
+    demo
+    0.12.4
+    {from ston, ar []}
+    {from stdn, ar []}
+    {from stc, class dashed, ar []}
+    {from st-std, body two, ar []}
+    &
+    beamer
+    0.16.3
+    {from stdn, class dashed, ar []}
+    {from stc, bend, class dashed, ar []}
+    {from st-std, ar []}
+    {from demo, body two, class dashed, ar []}
+    &
+    cd
+    0.10.3
+    {from stdn, class dashed, ar []}
+    {from stc, bend, class dashed, ar []}
+    {from st-std, ar []}
+    {from demo, bend right, body two, class dashed, ar []}
+    {from beamer, body two, class dashed, ar []}
+    &
+    page
+    0.12.3
+    {from stdn, class dashed, ar []}
+    {from stc, bend, class dashed, ar []}
+    {from st-std, ar []}
+    {from demo, bend right, body two, class dashed, ar []}
+    {from st-docs, body two, class dashed, ar []}
+    \\
+    sthl
+    0.13.3
+    &
+    st-std
+    0.31.4
+    {from stc, body two, class dashed, ar []}
+    {from sthl, body two, ar []}
+    {from stui, body two, ar []}
+    &
+    cfr
+    0.2.0
+    {from stc, class dashed, ar []}
+    &
+    item
+    0.0.19
+    {from stc, class dashed, ar []}
+    &
+    player
+    0.3.1
+    {from stc, class dashed, ar []}
+    \\
+    stui
+    0.15.12
+    &
+    st-view
+    0.31.9
+    {from stdn, bend, class dashed, ar []}
+    {from stc, bend, body two, ar []}
+    {from st-std, body two, ar []}
+    {from stui, body two, ar []}
+    \\
+    st-lang
+    0.31.13
+    {from ston, bend, ar []}
+    {from stdn, ar []}
+    {from stc, ar []}
+    {from stui, body two, ar []}
+    {from st-view, body two, ar []}
+    &
+    ddu6
+    {from st-view, body two, ar []}
+    &
+    st-org
+    {from st-view, body two, ar []}
+    {from st-docs, body two, ar []}
+    &
+    st-docs
+    0.6.15
+    {from hello, body squiggle, ar []}
+    {from cfr, body two, ar []}
+    {from demo, body two, ar []}
+    {from st-view, body two, ar []}
+    &
+    hello
+    0.1.1
+]}]}
