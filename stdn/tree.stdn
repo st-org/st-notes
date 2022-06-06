@@ -10,7 +10,7 @@
     \\
     &
     stc
-    0.28.2
+    0.28.3
     {from ston, ar []}
     {from stdn, ar []}
     &
@@ -69,14 +69,14 @@
     0.15.12
     &
     st-view
-    0.31.11
+    0.31.12
     {from stdn, bend, class dashed, ar []}
     {from stc, bend, body two, ar []}
     {from st-std, body two, ar []}
     {from stui, body two, ar []}
     \\
     st-lang
-    0.31.15
+    0.31.16
     {from ston, bend, ar []}
     {from stdn, ar []}
     {from stc, ar []}
