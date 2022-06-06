@@ -91,7 +91,7 @@
     {from st-docs, body two, ar []}
     &
     st-docs
-    0.6.16
+    0.6.17
     {from hello, body squiggle, ar []}
     {from cfr, body two, ar []}
     {from demo, body two, ar []}
