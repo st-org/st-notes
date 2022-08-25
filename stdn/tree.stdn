@@ -54,7 +54,7 @@
     {from stui, body two, ar []}
     &
     cfr
-    0.2.0
+    0.2.1
     {from stc, class dashed, ar []}
     &
     item
@@ -91,7 +91,7 @@
     {from st-docs, body two, ar []}
     &
     st-docs
-    0.6.20
+    0.6.21
     {from hello, body squiggle, ar []}
     {from cfr, body two, ar []}
     {from demo, body two, ar []}
