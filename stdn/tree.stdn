@@ -69,14 +69,14 @@
     0.15.12
     &
     st-view
-    0.31.13
+    0.31.15
     {from stdn, bend, class dashed, ar []}
     {from stc, bend, body two, ar []}
     {from st-std, body two, ar []}
     {from stui, body two, ar []}
     \\
     st-lang
-    0.31.17
+    0.31.18
     {from ston, bend, ar []}
     {from stdn, ar []}
     {from stc, ar []}
@@ -91,7 +91,7 @@
     {from st-docs, body two, ar []}
     &
     st-docs
-    0.6.22
+    0.6.23
     {from hello, body squiggle, ar []}
     {from cfr, body two, ar []}
     {from demo, body two, ar []}
