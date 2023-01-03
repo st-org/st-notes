@@ -15,7 +15,7 @@
     {from stdn, ar []}
     &
     demo
-    0.12.7
+    0.12.8
     {from ston, ar []}
     {from stdn, ar []}
     {from stc, class dashed, ar []}
@@ -45,10 +45,10 @@
     {from st-docs, body two, class dashed, ar []}
     \\
     sthl
-    0.31.8
+    0.31.9
     &
     st-std
-    0.31.9
+    0.31.10
     {from stc, body two, class dashed, ar []}
     {from sthl, body two, ar []}
     {from stui, body two, ar []}
@@ -69,7 +69,7 @@
     0.31.8
     &
     st-view
-    0.31.18
+    0.31.19
     {from stdn, bend, class dashed, ar []}
     {from stc, bend, body two, ar []}
     {from st-std, body two, ar []}
@@ -91,7 +91,7 @@
     {from st-docs, body two, ar []}
     &
     st-docs
-    0.6.29
+    0.6.30
     {from hello, body squiggle, ar []}
     {from cfr, body two, ar []}
     {from demo, body two, ar []}
