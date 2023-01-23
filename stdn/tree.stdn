@@ -1,5 +1,5 @@
 {title [Dependence Tree]}
-{mod cd@0.10.3, global []}
+{mod cd@main, global []}
 {style overflow:auto, div [{cd [
     ston
     0.7.1
@@ -26,23 +26,18 @@
     {from stdn, class dashed, ar []}
     {from stc, bend, class dashed, ar []}
     {from st-std, ar []}
-    {from demo, body two, class dashed, ar []}
     &
     cd
     0.10.4
     {from stdn, class dashed, ar []}
     {from stc, bend, class dashed, ar []}
     {from st-std, ar []}
-    {from demo, bend right, body two, class dashed, ar []}
-    {from beamer, body two, class dashed, ar []}
     &
     page
     0.12.4
     {from stdn, class dashed, ar []}
     {from stc, bend, class dashed, ar []}
     {from st-std, ar []}
-    {from demo, bend right, body two, class dashed, ar []}
-    {from st-docs, body two, class dashed, ar []}
     \\
     sthl
     0.31.9
@@ -92,9 +87,6 @@
     &
     st-docs
     0.6.30
-    {from hello, body squiggle, ar []}
-    {from cfr, body two, ar []}
-    {from demo, body two, ar []}
     {from st-view, body two, ar []}
     &
     hello
